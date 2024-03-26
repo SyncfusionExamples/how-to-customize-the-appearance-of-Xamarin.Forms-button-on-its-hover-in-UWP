@@ -44,7 +44,7 @@ The above customization has been done with the help of MouseOver visual state in
             </VisualStateManager.VisualStateGroups>
         </buttons:SfButton>
 ```
-# How to perform the scale animation while mouse over
+## How to perform the scale animation while mouse over
 
 Currently no direct approach to prepare the scale animation on its mouse over. It has been achieved with the help of Syncfusion Xamarin.Forms SfButton renderer in UWP. Using its pointer entered and exit event, here also customize the cursor icon to hand on its mouse over as follows
 
